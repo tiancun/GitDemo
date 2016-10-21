@@ -5,3 +5,4 @@ Git is free software distributed under the GPL.
 You are stupid
 Switched to a new branch "dev"
 SWITCHED TO A NEW BRANCH "DEV"
+Exercise git stash
